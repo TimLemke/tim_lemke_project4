@@ -664,4 +664,7 @@ $('a[href*="#"]')
 
 $(function () {
   worldEatsApp.init();
+  console.log(
+    'Thanks for checking this out! Feel free to contact me at timlemkedeveloper@gmail.com if you have any questions!'
+  );
 });
